@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashim-geospatialprofessional
-- 👀 I’m interested in Developing the new GIS tools and others cool toolbox for GIS data visualising using the coding   
+- 👀 I’m interested in Developing the new customize GIS tools and others cool toolbox for GIS data visualising using the coding   
 - 🌱 I’m currently learning code with Arcpy
 - 💞️ I’m looking to collaborate on GIS tools and Apps Development 
 - 📫 How to reach me on www.linkedin.com/in/ashimgis
