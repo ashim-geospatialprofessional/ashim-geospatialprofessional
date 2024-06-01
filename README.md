@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning code with Arcpy
 - 💞️ I’m looking to collaborate on GIS tools and Apps Development 
 - 📫 How to reach me on www.linkedin.com/in/ashimgis
-- 😄 Pronouns: ...
+- 😄 Pronouns:
 - ⚡ Fun fact: ...
 
 <!---
